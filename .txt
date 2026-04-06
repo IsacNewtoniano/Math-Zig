@@ -1,0 +1,1 @@
+qemu-system-x86_64 -bios "C:\Users\isacn\ovmf.fd" -kernel ".\kernel.exe" -m 256M
